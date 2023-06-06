@@ -1,0 +1,35 @@
+.body {
+    background-color: #1976D2; /* Azul */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .loginCard {
+    background-color: #ffffff; /* Blanco */
+    color: #212121; /* Color de texto */
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #1976D2; /* Azul */
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .icon {
+    color: #1976D2; /* Azul */
+  }
+  
